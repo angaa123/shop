@@ -1,0 +1,40 @@
+header {
+  height: 34px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 24px;
+}
+nav {
+  display: flex;
+  gap: 29px;
+}
+header nav a {
+  height: 26px;
+  top: 2px;
+  left: 817px;
+  gap: 0px;
+  opacity: 0px;
+  color: #161c2d;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: -0.10000000149011612px;
+  text-align: center;
+  text-decoration: none;
+}
+header span {
+  font-family: Rubik;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 28.44px;
+  letter-spacing: -0.13333334028720856px;
+  text-align: left;
+  width: 154px;
+  height: 28px;
+  top: 1px;
+  gap: 0px;
+  opacity: 0px;
+  color: #161c2d;
+}
